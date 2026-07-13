@@ -1,0 +1,6 @@
+{
+  "name": "Diagnosis Hama & Konsultasi PHT",
+  "description": "Konsultan Pertanian & Ahli Entomologi Proteksi Tanaman Interaktif untuk diagnosis hama dan strategi Pengendalian Hama Terpadu (PHT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
